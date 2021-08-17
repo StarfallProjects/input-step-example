@@ -1,5 +1,7 @@
 # Buildkite Input Step Example
 
+> **NOTE:** this fork is for testing the PowerShell script.
+
 [![Add to Buildkite](https://buildkite.com/button.svg)](https://buildkite.com/new)
 
 This repository is an example [Buildkite](https://buildkite.com/) pipeline that asks for input in a build using an [Input Step](https://buildkite.com/docs/pipelines/input-step).

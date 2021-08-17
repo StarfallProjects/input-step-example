@@ -4,4 +4,4 @@ steps:
       - text: "Your name"
         key: "name"
   - label: "Run script"
-    command: script.sh
+    command: script.ps1
